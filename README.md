@@ -1,1 +1,1 @@
-# Fixx-Buzz
+# Fizz-Buzz
